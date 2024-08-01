@@ -8,6 +8,8 @@ This project demonstrates a multi-level encryption approach for securing images 
 
 Budroni, A., & Mårtensson, E. (2024). Further improvements of the estimation of key enumeration with applications to solving LWE. Cryptography and Communications, 1-20. https://link.springer.com/article/10.1007/s12095-024-00722-1
 
+Verchyk, D., & Sepúlveda, J. (2023). A practical study of post-quantum enhanced identity-based encryption. Microprocessors and Microsystems, 99, 104828. https://doi.org/10.1016/j.micpro.2023.104828
+
 Rawal, B. S., & Biswas, A. (2024). A comprehensive survey of post-quantum cryptography and its implications. Engineering Science & Technology, 256-269. https://ojs.wiserpub.com/index.php/EST/article/view/4169
 
 
