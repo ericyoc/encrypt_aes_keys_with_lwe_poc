@@ -2,7 +2,10 @@
 
 ## Overview
 
-This project demonstrates a multi-level encryption approach for securing images by combining traditional cryptographic techniques with post-quantum encryption methods. The Python code provided implements the following steps:
+This project demonstrates a multi-level encryption approach for securing images by combining traditional cryptographic techniques with post-quantum encryption methods. 
+
+
+### The Python code provided implements the following steps:
 
 1. **2D Discrete Wavelet Transform (DWT):** Decomposes the image into different frequency components.
 2. **AES Encryption:** Encrypts the LL (approximation) coefficients from the DWT.
