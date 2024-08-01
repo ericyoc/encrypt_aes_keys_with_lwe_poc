@@ -4,6 +4,12 @@
 
 This project demonstrates a multi-level encryption approach for securing images by combining traditional cryptographic techniques with post-quantum encryption methods. 
 
+## Motivating Articles
+
+Budroni, A., & Mårtensson, E. (2024). Further improvements of the estimation of key enumeration with applications to solving LWE. Cryptography and Communications, 1-20. https://link.springer.com/article/10.1007/s12095-024-00722-1
+
+Rawal, B. S., & Biswas, A. (2024). A comprehensive survey of post-quantum cryptography and its implications. Engineering Science & Technology, 256-269. https://ojs.wiserpub.com/index.php/EST/article/view/4169
+
 
 ### The Python code provided implements the following steps:
 
