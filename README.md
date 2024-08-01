@@ -13,6 +13,9 @@ Verchyk, D., & Sepúlveda, J. (2023). A practical study of post-quantum enhanced
 Rawal, B. S., & Biswas, A. (2024). A comprehensive survey of post-quantum cryptography and its implications. Engineering Science & Technology, 256-269. https://ojs.wiserpub.com/index.php/EST/article/view/4169
 
 
+## Results
+![](https://github.com/ericyoc/encrypt_aes_keys_with_lwe_poc/blob/main/results_table.jpg)
+
 ### The Python code provided implements the following steps:
 
 1. **2D Discrete Wavelet Transform (DWT):** Decomposes the image into different frequency components.
